@@ -12,7 +12,8 @@ https://github.com/estcolros/UD25.git
 
 #### 3. Descripción 
 ```
-Ejercicios con SPRING Tool Suite 4, se basa en crear peticiones HTTP con un CRUD (Create, Read, Update, Delete) al completo con H2 ER
+Ejercicios con SPRING Tool Suite 4, se basa en crear peticiones HTTP con un CRUD (Create, Read, Update, Delete)
+al completo con H2 ER
 
 ```
 
