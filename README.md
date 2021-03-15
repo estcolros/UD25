@@ -3,11 +3,11 @@
 #### 1. Equipo Desarrollo 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Estefania Colombo Rosario | Master / Dev1 | Project Manager | 09/03/2021 |   | 1.0  |
+| Estefania Colombo Rosario | Master / Dev1 | Project Manager | 15/03/2021 |   | 1.0  |
 
 #### 2. Link a un demo con el proyecto desplegado:
 ```
-https://github.com/estcolros/UD24.git
+https://github.com/estcolros/UD25.git
 ```
 
 #### 3. Descripción 
