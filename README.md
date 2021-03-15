@@ -14,7 +14,6 @@ https://github.com/estcolros/UD25.git
 ```
 Ejercicios con SPRING Tool Suite 4, se basa en crear peticiones HTTP con un CRUD (Create, Read, Update, Delete)
 al completo con H2 ER
-
 ```
 
 #### 4. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
@@ -22,5 +21,4 @@ al completo con H2 ER
 ```
 SPRING Tool Suite 4       https://spring.io/tools
 Postman                   https://www.postman.com/
-
 ```
